@@ -164,6 +164,14 @@ echo "alias sync='~/sync.sh'" >> ~/.bashrc && source ~/.bashrc
 ``` Bash
     sync
 ```
+## 🛠️ Tip
+En caso de que [[Git]] marque un error como =='fatal: detected dubious ownership in repository'==, ejecuta el siguiente comando para decirle a Git que confíe en las carpetas almacenadas en la memoria de tu tablet:
+``` Bash
+git config --global --add safe.directory '*'
+```
+
+> **¿Qué hace el asterisco `'*'`?**
+> Le indica a Git que considere seguras todas las carpetas del almacenamiento de tu tablet. Es la solución ideal para Android, ya que si solo agregas una carpeta específica (`Frances`), te volverá a salir el mismo aviso cuando añadas `Ingles` o cualquier otro repositorio en el futuro.
 ## 7. Alternativa: Sincronización Automática cada "X" tiempo (Cron)
 Si prefieres no ejecutar el comando manualmente y deseas que el script se corra solo en segundo plano:
 1. Instalar el gestor de tareas `cronie`:
