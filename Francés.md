@@ -1,7 +1,11 @@
 #Idioma #Francés #LenguaRomance #Comunicación #Humano 
 
 >Libro: mon alter ego 1
->Prueba
+
+## Comando Sync Frances
+```bash
+sync Francais
+```
 # Francés
 
 > [!note] Escritura en teclado
