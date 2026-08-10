@@ -85,7 +85,7 @@ Esta guía detalla el proceso para sincronizar repositorios de GitHub con Obsidi
     mkdir MisNotas && cd MisNotas
 ```
 
-3. Clonar el repositorio deseado mediante SSH:
+3. Clonar el repositorio deseado mediante SSH -haz esto por cada repositorio que quieras clonar-:
 ``` Bash
     git clone git@github.com:tu_usuario/tu_repositorio.git
 ```
