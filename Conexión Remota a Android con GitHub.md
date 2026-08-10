@@ -85,9 +85,9 @@ Esta guía detalla el proceso para sincronizar repositorios de GitHub con Obsidi
     mkdir MisNotas && cd MisNotas
 ```
 
-3. Clonar el repositorio deseado mediante SSH (ejemplo para la materia de Francés):
+3. Clonar el repositorio deseado mediante SSH:
 ``` Bash
-    git clone git@github.com:tu_usuario/tu_repositorio.git Frances
+    git clone git@github.com:tu_usuario/tu_repositorio.git
 ```
 ## 5. Abrir la Bóveda en Obsidian
 
