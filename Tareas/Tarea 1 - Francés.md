@@ -1,0 +1,3 @@
+#Lenguaje #Francés #LenguaRomance #Tarea
+
+Salut! Je m'appelle Adrián, j'ai 22 ans. Je suis mexicain, j'habite à Zacatecas. Je suis célibataire. Je parle espagnol et anglais. J'apprends français, allemand et espéranto. J'aime la nature, la natation, la nourriture et les araignées. J'ai un frère, il s'appelle Javier. J'étudie l'ingénierie informatique. Je n'aime pas beaucoup parler français mais c'est une langue importante.
