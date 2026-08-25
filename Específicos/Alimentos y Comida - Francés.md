@@ -13,15 +13,15 @@
 - Dîner, cena
 - Goûter, comida entre comidas, usualmente entre comida y cena
 >No existe desayunar, se usa prendre son petit-déjeuner 
->Déjeuner, goûter si es [[Verbos-francés]], pero no es habitual, se suele usar prendre
+>- Déjeuner, goûter si es [[Verbos-francés]], pero no es habitual, se suele usar prendre
 
-> [!important] Partitivo 
-> Definidos:
-> - la,le,l',les
-> Indefinidos:
-> - une,un
-> No contables:
-> - de la, du, de l'
+> [!important] Partitfs
+> Contable precisa 
+> - une, un, medidas fijadas y un peu/beaucoup -se acompañan de 'de' o d'-, números 
+> Contable:
+> - 
+> No contable, este no existe en el español:
+> - de l', de la, du,des
 > >El partitivo no aparece en negaciones
 ## Frutas y verduras
 - abricot, chabacano
@@ -31,9 +31,15 @@
 - banane, platano
 - brocolí
 - carotte, zanahoria
-- cerise, ceraza
+- cerise, cereza
 - citron, limon
 - courgett, calabaza
+- légume, verdura
+- salad, lechuga/ensalada, une -> lechuga, de la -> ensalada
+- petits pois, chicharos
+## Carne
+- agneau -> cordero
+- poulet, m, pollo
 ## Alimentos preparados
 - chocolat, m
 - fromage, m, queso
@@ -42,11 +48,14 @@
 - pain, m, pan
 - sucreries, f, chucherías dulces
 - viande, f, carne
+- pâtes, pasta
+- frites, papas a la francesa
 ## Bebidas
 Boisson, m, bebidas
 - bière, f, cerveza
 - café, m
 - eau, agua
+- vin, m, vino
 ## Otros
 - miel, m,
 - noisette, f, avellana
@@ -56,10 +65,14 @@ Boisson, m, bebidas
 - piment, m, pimiento morron
 - pistache, f, pistache
 - pomme de terre,patate, f, papa
+- riz, m, arroz
 ## Medidas
 - pot, frasco
 - tablette, f, tableta -igual que tablet-
 - tasse, taza
+- verrw, vaso
+- tranche, trozo
+- bouteille, botella
 ## [[Adjetivos - Francés]]
 
 ## [[Verbos-francés]]
