@@ -22,7 +22,7 @@
 > - 
 > No contable, este no existe en el español:
 > - de l', de la, du,des
-> >El partitivo no aparece en negaciones
+> >El partitivo no aparece en negaciones, se usa 'pas de', pas d'; aunque usualmente te comes el 'de' en hablado
 ## Frutas y verduras
 - abricot, chabacano
 - ananas, piña
@@ -37,9 +37,13 @@
 - légume, verdura
 - salad, lechuga/ensalada, une -> lechuga, de la -> ensalada
 - petits pois, chicharos
+## Productos lácteos 
+- Beurre, m, mantequilla
+
 ## Carne
 - agneau -> cordero
 - poulet, m, pollo
+- oeuf, m, huevo
 ## Alimentos preparados
 - chocolat, m
 - fromage, m, queso
@@ -50,12 +54,18 @@
 - viande, f, carne
 - pâtes, pasta
 - frites, papas a la francesa
+- céréales
+- flocons d'avoine, granola
+- confiture,f, mermelada
 ## Bebidas
 Boisson, m, bebidas
+- boisson chaude, bebida caliente
 - bière, f, cerveza
 - café, m
 - eau, agua
 - vin, m, vino
+- café,m
+- thé, m
 ## Otros
 - miel, m,
 - noisette, f, avellana
@@ -78,3 +88,8 @@ Boisson, m, bebidas
 ## [[Verbos-francés]]
 - Épicer, condimentar
 ## Específicos 
+- croissant, m
+- pain au chocolat, m
+- oeufs à la coque, huevo semiduro
+- omelette, f, se pronuncia 'omlet'
+- tartine, f, pan con mermelada
