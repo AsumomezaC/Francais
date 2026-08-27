@@ -53,6 +53,7 @@ noir -> negro
 nouveau -nouvel- -> nuevo -irregular nouvelle-
 practique -> práctica
 premier -> primero -femenino: première-
+Nombreux, varios
 ### Posición de los adjetivos
 Estas reglas van de menor prioridad a mayor prioridad
 - Si el adjetivo es corto va antes del sujeto, si es largo va después
@@ -91,7 +92,7 @@ Es el plural estándar (si hay varias personas de distintos géneros se aplican 
 Se hace la regla [[#Femenino]] pero acompañamos con 's'.
 
 > [!NOTE] Lenguaje inclusive
-> En [[francés]] si existe el lenguaje inclusive, es muy usado.
+> En [[Francés]] si existe el lenguaje inclusive, es muy usado.
 
 ### Para personas
 

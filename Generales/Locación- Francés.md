@@ -10,7 +10,7 @@
 | japonais   | japonais / japonaise    | japonés            | le Japon         |
 | portugais  |                         | [[portugués]]      | le Portugal      |
 | coréen     | coréen                  | coreano            |                  |
-| français   | français / française    | [[francés]]        | la France        |
+| français   | français / française    | [[Francés]]        | la France        |
 | italien    | italien / italienne     | [[italiano]]       |                  |
 | mandarin   | chinois / chinoise      | mandarín           |                  |
 | suédois    | suédois / suédoise      | [[Sueco]]          |                  |

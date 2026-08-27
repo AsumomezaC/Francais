@@ -35,7 +35,7 @@
 - citron, limon
 - courgett, calabaza
 - légume, verdura
-- salad, lechuga/ensalada, une -> lechuga, de la -> ensalada
+- salad, lechuga/ensalada, une -> lechuga, de la -> ensalada -si está lleva un adjetivo o específico se puede usar une-
 - petits pois, chicharos
 ## Productos lácteos 
 - Beurre, m, mantequilla
@@ -62,10 +62,12 @@ Boisson, m, bebidas
 - boisson chaude, bebida caliente
 - bière, f, cerveza
 - café, m
+- café au lait
 - eau, agua
 - vin, m, vino
 - café,m
 - thé, m
+- jus,m, jugo
 ## Otros
 - miel, m,
 - noisette, f, avellana
@@ -80,7 +82,7 @@ Boisson, m, bebidas
 - pot, frasco
 - tablette, f, tableta -igual que tablet-
 - tasse, taza
-- verrw, vaso
+- verre, vaso
 - tranche, trozo
 - bouteille, botella
 ## [[Adjetivos - Francés]]
