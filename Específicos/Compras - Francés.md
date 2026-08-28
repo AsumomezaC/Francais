@@ -16,4 +16,8 @@ L'addtion, s'il vous plaît!
 ## Extra
 ingredients -> ingredientes
 (f) épicerie -> tienda de abarrotes
-
+Caddie, m, carrito de compras 
+Courses, compras
+Consommateur,consumidor
+## Relacionados
+- [[Alimentos y Comida - Francés]]

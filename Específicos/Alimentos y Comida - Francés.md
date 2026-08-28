@@ -23,6 +23,7 @@
 > No contable, este no existe en el español:
 > - de l', de la, du,des
 > >El partitivo no aparece en negaciones, se usa 'pas de', pas d'; aunque usualmente te comes el 'de' en hablado
+> >Tampoco se usa para: peu de.. (poco de...) y beaucoup de.., pas assez de.. (no suficiente), assez de..., trop de
 ## Frutas y verduras
 - abricot, chabacano
 - ananas, piña
@@ -35,6 +36,7 @@
 - citron, limon
 - courgett, calabaza
 - légume, verdura
+- légume secs, verduras secas
 - salad, lechuga/ensalada, une -> lechuga, de la -> ensalada -si está lleva un adjetivo o específico se puede usar une-
 - petits pois, chicharos
 ## Productos lácteos 
@@ -95,3 +97,5 @@ Boisson, m, bebidas
 - oeufs à la coque, huevo semiduro
 - omelette, f, se pronuncia 'omlet'
 - tartine, f, pan con mermelada
+## Otros
+- le gout, los gustos
