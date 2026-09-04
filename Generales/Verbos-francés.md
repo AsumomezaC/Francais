@@ -41,6 +41,7 @@ continuer -> continuar
 étudier -> estudiar
 detester -> detestar
 dîner -> cenar
+Goûter, comer la colación 
 habiter -> habitar
 jouer -> jugar (como el 'play' del [[Inglés]])
 longer -> rodear
