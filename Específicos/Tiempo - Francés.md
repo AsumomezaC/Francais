@@ -15,6 +15,7 @@ Después de la hora en el sistema de las 12 h, no es obligatorio
 Cuando pasa de la media puedes decir la siguiente hora y restar usando
 - moins, menos
 Aquí el quart, demie incluye el articulo 'le'
+>Le matin, le soir, l'apres-midi  nunca llevan preposición 'en'
 ### Preguntas
 Il est quelle heure?, que hora es
   Il est...

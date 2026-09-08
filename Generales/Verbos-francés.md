@@ -67,12 +67,26 @@ voyager -> viajar
 >>Como llamar, nosotros no decimos 'Yo llamó X', se dice 'Yo ==me== llamó'
 >>Se usa para un verbo que se puede aplicar para otra persona o para el sujeto de la acción
 
+**Auxiliares**:
+- me, je
+- te, tu
+- se, elle, il, on
+- nous,nous
+- vous, vous
+- se, elles, ils
+
 Se conjugan igual que los [[#Verbos -er]]
 appeller -> llamar
 promener -> pasear
 	si se usa como sustantivo se usa 'faire une pomenade'
-doucher -> bañarse
 visiter -> visitar
+Laver -> lavar/bañarse
+Doucher -> ducharse
+Coucher -> acostar
+Lever, levantar
+Réveiller, despertar
+Brosser, cepillar
+
 	
 > [!NOTE] Pronombre
 > me -> 'je'
