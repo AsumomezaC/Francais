@@ -97,7 +97,7 @@ Se conjugan igual que los [[#Verbos -er]]
 - reposer, descansar
 - détendre, detenerse/hacer una pausa
 - changer, cambiar
-- endormir, acostarse
+- endormir, dormir
 
 
 	
