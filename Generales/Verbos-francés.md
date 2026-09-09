@@ -62,6 +62,12 @@ trouver -> encontrar/buscar
 regarder -> ver algo en una pantalla/observar (igual que el 'watch' en [[Inglés]])
 réviser -> estudiar
 voyager -> viajar
+### Verbes en -cer
+Se conjugan igual que [[#Verbos -er]], exceptuando el nous: se conjuga '-çons'
+- Commencer
+- déplacer
+- placer
+- annoncer
 # Verbo pronominales
 >Son aquellos que se acompañan de un pronombre
 >>Como llamar, nosotros no decimos 'Yo llamó X', se dice 'Yo ==me== llamó'
@@ -76,16 +82,23 @@ voyager -> viajar
 - se, elles, ils
 
 Se conjugan igual que los [[#Verbos -er]]
-appeller -> llamar
-promener -> pasear
+- appeller -> llamar
+- promener -> pasear
 	si se usa como sustantivo se usa 'faire une pomenade'
-visiter -> visitar
-Laver -> lavar/bañarse
-Doucher -> ducharse
-Coucher -> acostar
-Lever, levantar
-Réveiller, despertar
-Brosser, cepillar
+- visiter -> visitar
+- Laver -> lavar/bañarse
+- Doucher -> ducharse
+- Coucher -> acostar
+- Lever, levantar
+- Réveiller, despertar
+- Brosser, cepillar
+- habiller, vestirse
+- préparer, prepararse
+- reposer, descansar
+- détendre, detenerse/hacer una pausa
+- changer, cambiar
+- endormir, acostarse
+
 
 	
 > [!NOTE] Pronombre

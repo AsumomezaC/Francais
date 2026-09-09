@@ -8,6 +8,9 @@
 - presque, casi (ej. Casi las 2)
 - déjà, ya
 - peine, apenas
+- à, a -ej. A 9.30-
+- vers, aproximadamente a X hora
+- jusqu'à, hasta X hora
 Después de la hora en el sistema de las 12 h, no es obligatorio 
 - du matin, am
 - de l'après-midi, pm
