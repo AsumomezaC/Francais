@@ -126,7 +126,7 @@ Se conjugan igual que los [[#Verbos -er]]
 
 - sortir -> salir
 - partir, salir
-- dormir, 
+- dormir, en este tanto je,tu,on,il,elle no incluyen la 'm' en la Conjugación 
 # Verbos del tercer grupo
 Son aquellos que no pertenecen ni al primer ni al segundo [[#Grupos]], pero hay más de dos verbos que se conjugan igual (a diferencia de los [[#Irregulares]]).
 ### Lire
