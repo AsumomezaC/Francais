@@ -39,6 +39,7 @@ chercher -> buscar
 continuer -> continuar
 écouter -> escuchar
 étudier -> estudiar
+Danser, bailar
 detester -> detestar
 dîner -> cenar
 Goûter, comer la colación 
@@ -98,6 +99,8 @@ Se conjugan igual que los [[#Verbos -er]]
 - détendre, detenerse/hacer una pausa
 - changer, cambiar
 - endormir, dormir
+- coiffer, peinarse
+- 
 
 
 	
@@ -112,9 +115,24 @@ Se conjugan igual que los [[#Verbos -er]]
 > >Si algún verbo empieza con vocal se realiza una contracción (s', m', t') o se hace la liaison.
 > >Ojo: se repite la forma del ==pronombre==
 # Verbos -ir
+>[!important] Conjugación 
+>Se remplaza el '-ir'
+>- je, -s
+>- tu, -s
+>- il,elle,on, -t
+>- nous, -ons
+>- vous, -ez
+>- ils,elles, -ent
+
 - sortir -> salir
+- partir, salir
+- dormir, 
 # Verbos del tercer grupo
 Son aquellos que no pertenecen ni al primer ni al segundo [[#Grupos]], pero hay más de dos verbos que se conjugan igual (a diferencia de los [[#Irregulares]]).
+### Lire
+>Leer
+### Balayer
+>Barrer
 ### Descendre
 >Descender / Bajar
 >

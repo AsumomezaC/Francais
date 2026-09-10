@@ -34,6 +34,12 @@ C'est à quelle heure?
 - Plus tard, más tarde
 - tôt ou tard, tarde o temprano
 - Mieux vaut tard que jamais, más vale tarde que nunca
+## Expresiones temporales
+Para especificar una fecha (está/este):
+- ce, este
+- cet, este si empieza con vocal
+- cette, está
+- ces, plural
 ## Consideraciones 
 - el sistema hablado es el de 12 horas
 ## Escrito
