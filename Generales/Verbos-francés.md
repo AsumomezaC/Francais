@@ -36,6 +36,7 @@ apprendre -> aprender
 arriver -> llegar
 bosser -> trabajar / chambear
 chercher -> buscar
+consulter, consultar
 continuer -> continuar
 écouter -> escuchar
 étudier -> estudiar
@@ -100,9 +101,6 @@ Se conjugan igual que los [[#Verbos -er]]
 - changer, cambiar
 - endormir, dormir
 - coiffer, peinarse
-- 
-
-
 	
 > [!NOTE] Pronombre
 > me -> 'je'

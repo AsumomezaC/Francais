@@ -215,6 +215,7 @@ Il/elle est... Ils / Elles sont... -> se usa cuando se omite el pronombre
 - [[Profesiones - Francés]]
 - [[Saluer et prendre congé]]
 - [[Tareas-Francés]]
+- [[Tiempo - Francés]]
 - [[Transporte - Francés]]
 - [[Vocabulario general francés]]
 ## Extras

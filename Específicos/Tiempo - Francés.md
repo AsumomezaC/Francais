@@ -11,6 +11,7 @@
 - à, a -ej. A 9.30-
 - vers, aproximadamente a X hora
 - jusqu'à, hasta X hora
+- (f) montre, reloj de mano
 Después de la hora en el sistema de las 12 h, no es obligatorio 
 - du matin, am
 - de l'après-midi, pm
@@ -42,6 +43,8 @@ Para especificar una fecha (está/este):
 - ces, plural
 ## Consideraciones 
 - el sistema hablado es el de 12 horas
+- el et demie, et quart no se usan en el sistema de 24 horas
+- el douze solo se usa para midi,no para minuit
 ## Escrito
 En la hora escrita se ponen siempre los dos digitos de los minutos si es que hay minutos, ej. 12h02
 ## Temas relacionados
