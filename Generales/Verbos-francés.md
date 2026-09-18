@@ -208,3 +208,18 @@ Son aquellos que no pertenecen ni al primer ni al segundo [[#Grupos]], pero hay 
 - nous voulons
 - vous voulez
 - ils/elles veulent
+## Devoir
+>Deber
+- je dois
+- tu dois
+- il,elle,on doit
+- nous devons
+- vous devez 
+- ils,elles doivent
+# Verbos impersonales
+Solo tienen una Conjugación 
+## Falloir
+> Tener que
+
+Il fait
+
