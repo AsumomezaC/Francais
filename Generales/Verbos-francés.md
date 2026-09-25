@@ -57,6 +57,7 @@ pratiquer -> practicar
 preparer -> preparar
 	se puede hacer [[#Verbo pronominales|pronominal]]
 profiter -> disfrutar
+Souhaiter, desear
 tourner -> girar (como 'turn' en [[Inglés]])
 travailler -> trabajar
 trouver -> encontrar/buscar
@@ -133,7 +134,6 @@ Son aquellos que no pertenecen ni al primer ni al segundo [[#Grupos]], pero hay 
 >Barrer
 ### Descendre
 >Descender / Bajar
->
 - je -> descends 
 - tu/t' -> descends
 - il/elle/on ->  descend
