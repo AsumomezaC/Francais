@@ -68,7 +68,7 @@ voyager -> viajar
 ### Verbes en -cer
 Se conjugan igual que [[#Verbos -er]], exceptuando el nous: se conjuga '-çons'
 - Commencer
-- déplacer
+- déplacer -mantiene el acento-
 - placer
 - annoncer
 # Verbo pronominales
@@ -102,6 +102,7 @@ Se conjugan igual que los [[#Verbos -er]]
 - changer, cambiar
 - endormir, dormir
 - coiffer, peinarse
+- maquiller, maquillarse
 	
 > [!NOTE] Pronombre
 > me -> 'je'
@@ -208,6 +209,14 @@ Son aquellos que no pertenecen ni al primer ni al segundo [[#Grupos]], pero hay 
 - nous voulons
 - vous voulez
 - ils/elles veulent
+## Pouvoir
+>Poder
+- je peux
+- tu peux
+- il,elle,on peut
+- nous pouvons
+- vous pouvez
+- ils,elles peuvent
 ## Devoir
 >Deber
 - je dois
