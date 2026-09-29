@@ -41,6 +41,7 @@ continuer -> continuar
 écouter -> escuchar
 étudier -> estudiar
 Danser, bailar
+Déranger, molestar
 detester -> detestar
 dîner -> cenar
 Goûter, comer la colación 
@@ -231,4 +232,14 @@ Solo tienen una Conjugación
 > Tener que
 
 Il fait
+
+---
+
+## Extras
+### Negativo 
+#### Infinitivo
+Ne pas + infinitif
+#### Sustantivo
+Pas + Sustantivo 
+
 

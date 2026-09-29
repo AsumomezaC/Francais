@@ -12,6 +12,7 @@
 - vers, aproximadamente a X hora
 - jusqu'à, hasta X hora
 - (f) montre, reloj de mano
+- chaque, cada
 Después de la hora en el sistema de las 12 h, no es obligatorio 
 - du matin, am
 - de l'après-midi, pm
@@ -25,6 +26,8 @@ Il est quelle heure?, que hora es
   Il est...
 C'est à quelle heure?
   C'est à...
+Combien de fois par N?, cuantas veces cada N tiempo 
+X fois par N
 ## Expresiones útiles 
 - être en avance, estar temprano
 - être à l'heure, estar en tiempo
@@ -47,5 +50,9 @@ Para especificar una fecha (está/este):
 - el douze solo se usa para midi,no para minuit
 ## Escrito
 En la hora escrita se ponen siempre los dos digitos de los minutos si es que hay minutos, ej. 12h02
+## Específicos
+Jour, matin, soir,an
+Cuando hace referencia a cada una, o a una en específica, en una parte específica: masculino
+Cuando hace referencia a toda en general: femenino
 ## Temas relacionados
 - [[Números - Francés]]
