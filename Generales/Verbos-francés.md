@@ -232,6 +232,10 @@ Solo tienen una Conjugación
 > Tener que
 
 Il fait
+## Pleuvoir
+> Llover 
+
+Il pleut
 
 ---
 
