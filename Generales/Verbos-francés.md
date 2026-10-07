@@ -54,6 +54,7 @@ marcher -> caminar
 monter -> subir
 parler -> hablar
 participer -> participar
+Pique-niquer, picniquear
 pratiquer -> practicar
 preparer -> preparar
 	se puede hacer [[#Verbo pronominales|pronominal]]
@@ -63,6 +64,7 @@ tourner -> girar (como 'turn' en [[Inglés]])
 travailler -> trabajar
 trouver -> encontrar/buscar
 	[[Preguntas y Respuestas - Francés]] -> oú se trouve...? -> dónde se encuentra?
+Randonner, senderear 
 regarder -> ver algo en una pantalla/observar (igual que el 'watch' en [[Inglés]])
 réviser -> estudiar
 voyager -> viajar

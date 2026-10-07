@@ -7,7 +7,7 @@ Il me fait pas beau, mal clima
 	Il fait mauvais
 #### Temperatura 
 Il fait chaud, hace calor
-	Il fait bon
+	Il fait bon, doux
 Il fait froid, hace frio
 	Il fait frais
 Il fait X°C (degrés), estamos a x grados
