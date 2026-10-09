@@ -3,4 +3,5 @@
 > [!important] Sustantivo+ verbo conjugado + verbo imperativo + complemento
 ## Temas Relacionados 
 - [[Normas - Francés]]
+- [[Necesidad - Francés]]
 - [[Verbos-francés]]

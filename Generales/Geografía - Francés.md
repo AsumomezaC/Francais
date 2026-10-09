@@ -4,7 +4,7 @@
 - est, este
 - ouest, oeste
 - sud, sur
-- 
+- nord
 
 ### Articulos
 - au/à l',fuera del país 
