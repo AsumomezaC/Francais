@@ -25,7 +25,7 @@
 - la casquette, cachucha
 - le bonnet, gorro
 - les gants, guantes
-- la culotte, calzones
+- la culotte, calzones mujer
 - le soutien-gorge, brasier
 - le slip/le boxer, boxer
 - la veste, chaqueta
@@ -35,7 +35,40 @@
 - les chaussures à talons
 - les sandales, sandalias
 - les tongs, chanclas
+- les bottes,botas
+- la ceinture, cinturón 
+- les chausettes, los calcetines
+- les collants, medias largas
+- le sac à main, bolso de mano
+- un legging, legins
+- sous-vêtements, ropa interior 
+- les bijoux, joyería 
+- un bracelet, brazalete 
+- un coiller, colgante
+- une chaîne, cadena
 ## [[Verbos-francés]]
+- essayer, probar
+- chercher, buscar
+- porter, portar, usar
+- ranger, acomodar
+- s'habiller, vestir
+- se déshabiller, desvestirse
+### Frases
+Elle essaye une veste, se prueba un...
+Elle cherche un chemisier, busca...
+Elle range ses..., acomodar...
+Il s'habille, vestirse...
+Il bouttonne, abotonar...
+Ils enlèvent, quitarse
+Déshabiller, desvestirse
+Elles font du shopping, ir de compras
+Elle ne rentre plus dans..., no entra en...
+Il repasse le col..., planchar el cuello...
+Il porte des..., portar, usar
+Elle sort de..., salir de
+### Preguntas
+Qu'est-ce que vous portez aujourd'hui?, qué estás usando hoy?
+
 
 ---
 ## Temas Relacionados 
