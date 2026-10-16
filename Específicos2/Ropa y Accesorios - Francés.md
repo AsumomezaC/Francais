@@ -46,6 +46,14 @@
 - un bracelet, brazalete 
 - un coiller, colgante
 - une chaîne, cadena
+- un coupe-vent, rompevientos
+- une veste polaire, suéter caliente y delgado
+- une doudoune, chamarra gruesa para frío potente
+- une veste, chamarra
+- un sac à dos, mochila
+- une gourde, botella de agua
+- une serviette, toalla
+- une trousse à pharmacie, botiquín 
 ## [[Verbos-francés]]
 - essayer, probar
 - chercher, buscar
