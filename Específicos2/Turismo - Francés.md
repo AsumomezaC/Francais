@@ -24,7 +24,7 @@
 - romantique
 - chaleureuse, cálida 
 - détendue, relajada
-- makestueux
+- 
 ### [[Adverbios - Francés]]
 - incroyablement, increíblemente 
 ## Útiles 
