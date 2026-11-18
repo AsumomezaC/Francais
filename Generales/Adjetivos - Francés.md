@@ -54,6 +54,8 @@ nouveau -nouvel- -> nuevo -irregular nouvelle-
 practique -> práctica
 premier -> primero -femenino: première-
 Nombreux, varios
+Connu, conocido
+Superbe, genial
 ### Posición de los adjetivos
 Estas reglas van de menor prioridad a mayor prioridad
 - Si el adjetivo es corto va antes del sujeto, si es largo va después

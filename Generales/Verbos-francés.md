@@ -152,6 +152,22 @@ Son aquellos que no pertenecen ni al primer ni al segundo [[#Grupos]], pero hay 
 - nous -> prenons
 - vous -> prenez
 - - ils/elles -> prennent
+## Choisir
+>Elegir, similar a finir
+- is
+- is
+- it
+- issons
+- issez
+- issent
+## Découvrir, offrir
+> Descubrir, ofrecer; como ouvrir
+- e
+- es
+- e
+- ons
+- ez
+- ent
 # Irregulares
 >Irréguliers
 ## être
